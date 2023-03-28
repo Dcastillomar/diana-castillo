@@ -4,10 +4,10 @@ body {
 
 header {
     background-color: #006e90;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(255, 255, 255);
     font-size: 50px;
-    font-weight: bolder;
+    font-weight: 300%;
     padding-bottom: 15px;
     padding-top: 15px;
     width: 100%;   
@@ -18,7 +18,7 @@ header {
 .navbar {
     background-color:#f18f01;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(0, 0, 0)
+    color: rgb(0, 0, 0);
     font-weight: bold;
     width:100%;
     text-align:right;
@@ -32,6 +32,15 @@ h1 {
     font-size: 20px;
     
 }
+
+.about-me{ 
+    background: #6c4b5e;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;}
+    p {
+       float:right;
+    }
 
 .sections {
     background: #6c4b5e;
