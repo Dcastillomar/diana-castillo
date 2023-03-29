@@ -30,8 +30,6 @@ h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(255, 255, 255);
     font-size: 30px;
-   
-    
 }
 
 .about-me{ 
@@ -44,12 +42,18 @@ h1 {
         width: 46%;}
     p{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         font-size: 25px;
+        text-align: justify;
         display: inline-block;
         width: 46%;
         @media (max-width: 620px) {
           width: 100% px;}
         }
-    
+    h2{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background: #6c4b5e;
+        padding: 15px;
+        display:flex;
+    }
  .works{
     
         background: #6c4b5e;
@@ -58,9 +62,7 @@ h1 {
         font-size: 25px;
         color:rgb(255, 255, 255);
     }
- .figure{
-    float: inline-block;
- }
+ 
 
     .resume{
         background: #6c4b5e;
