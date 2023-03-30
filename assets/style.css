@@ -32,6 +32,11 @@ h1 {
     font-size: 30px;
 }
 
+.container{
+    color:white;
+    padding: 5px;
+}
+
 .about-me{ 
     background: #6c4b5e;
     padding: 5px;
